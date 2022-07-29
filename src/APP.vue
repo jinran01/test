@@ -3,6 +3,7 @@
     <button @click="sub">-</button>
     <input v-model="num" type="text" >
     <button @click="add">+</button>
+    <button>添加</button>
 </template>
 
 <script>
